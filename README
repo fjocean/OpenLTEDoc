@@ -1,3 +1,9 @@
+This repository is a clone of the openLTE project at sourceforge.net/projects/openlte/.
+I am planning to add additional documentation & test code for the purpose of
+furthering my understanding of the code.
+
+Original README Below...
+
 This directory contains the openLTE source code.  For support, please
 subscribe to openlte-discuss@lists.sourceforge.net.  Details can be
 found at sourceforge.net/projects/openlte/.
